@@ -1,5 +1,5 @@
 <h1>
-<img src="https://emojis.slackmojis.com/emojis/images/1616313730/22670/hey.gif?1616313730" width="30"/>  Hi there, I'm OZX-OG.  <img src="https://emojis.slackmojis.com/emojis/images/1539890226/4845/rickroll.gif?1539890226" width="30"/>
+<img src="https://emojis.slackmojis.com/emojis/images/1616313730/22670/hey.gif?1616313730" width="30"/>  Hi there, I'm OZX-OG  <img src="https://emojis.slackmojis.com/emojis/images/1539890226/4845/rickroll.gif?1539890226" width="30"/>  .
 
 </h1>
 
@@ -13,8 +13,8 @@
 
 I'm learning artificial intelligence exactly ML AND DL, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-- 👨🏻‍💻 I’m currently working on something cool very coool;
-- 🔭 Full Stack Developer
+- 👨🏻‍💻 I’m currently working on something cool, very coool;
+- 🔭 Full Stack Developer, Mobile Developer
 - 🌱 I’m currently learning everything 🤣
 - 👯 Gameeeeeeeeeeeer
 - 🥅 Future Goals: ...
