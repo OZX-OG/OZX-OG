@@ -15,7 +15,6 @@ I'm learning artificial intelligence exactly ML AND DL, I enjoy using my obsessi
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/OZX-OG/OZX-OG/main/shit.gif?token=AMWVNDBK7UG3W4AZWJSLP3TBVOW5Y" width="408" height="318" />
 
 
-# About ME:
 - 👨🏻‍💻 I’m currently working on something cool, very coool;
 - 🔭 Full Stack Developer, Mobile Developer
 - 🌱 I’m currently learning everything 🤣
