@@ -13,6 +13,7 @@
 
 I'm learning artificial intelligence exactly ML AND DL, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
+# About ME:
 - 👨🏻‍💻 I’m currently working on something cool, very coool;
 - 🔭 Full Stack Developer, Mobile Developer
 - 🌱 I’m currently learning everything 🤣
