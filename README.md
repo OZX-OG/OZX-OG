@@ -10,7 +10,7 @@
 
 # About ME:
 
-I'm learning artificial intelligence exactly ML AND DL, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+<h5>I'm learning artificial intelligence exactly ML AND DL,</h5> I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/OZX-OG/OZX-OG/main/shit.gif?token=AMWVNDBK7UG3W4AZWJSLP3TBVOW5Y" width="415" height="300" />
 
