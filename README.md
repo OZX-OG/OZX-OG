@@ -9,9 +9,11 @@
 <a href="https://open.spotify.com/user/j58y1s81otykl85rcgrnk3c8p" target="_blank"><img height="30" src="https://seeklogo.com/images/S/spotify-2015-logo-560E071CB7-seeklogo.com.png"></a>
 
 # About ME:
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/OZX-OG/OZX-OG/main/shit.gif?token=AMWVNDBK7UG3W4AZWJSLP3TBVOW5Y" width="408" height="318" />
 
 I'm learning artificial intelligence exactly ML AND DL, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/OZX-OG/OZX-OG/main/shit.gif?token=AMWVNDBK7UG3W4AZWJSLP3TBVOW5Y" width="408" height="318" />
+
 
 # About ME:
 - 👨🏻‍💻 I’m currently working on something cool, very coool;
