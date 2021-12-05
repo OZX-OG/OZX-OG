@@ -11,7 +11,7 @@
 # About ME:
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/OZX-OG/OZX-OG/main/shit.gif?token=AMWVNDBK7UG3W4AZWJSLP3TBVOW5Y" width="408" height="318" />
 
-#### I'm learning artificial intelligence exactly ML AND DL, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+I'm learning artificial intelligence exactly ML AND DL, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
 - 👨🏻‍💻 I’m currently working on something cool, very coool;
 - 🔭 Full Stack Developer, Mobile Developer
